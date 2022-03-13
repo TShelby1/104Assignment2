@@ -1,0 +1,38 @@
+worry about what you need first and the coding second!! 
+
+for example software for a school, you would need students:email, password, name, lastname, age, grade, Course: id, assignments, name, students, instructors, Instructors:email, password, name, grading
+
+better,,,,, angry birds game, you have birds, that have: names, colors, mass, pox, posy, THEY CAN fly, crash Called "UML" ways for ideas to be presented to developers
+
+"bird" would be a class, object generator fills out the "model" for birds with info, outputs are objects(instances) 
+
+objecst literal and object constructor, literal is limited, constructor is better because.........
+
+sometimes better to use objects over variables
+
+with variables, lets say "brandon" needs access to a system. you need to create the student variable, the property, then the value, then variable of age, and variable of email. 
+
+objects are good because...:
+
+objects can have multiple variables for example a fiat car: type, color, model, motor etc
+
+object properties: name:value = "properties"
+
+accessing object properties: objectName.propertyName
+
+obects can have methods: methods are actions that can be performed on the object, methods are stored as function definitions
+
+good developers get real world applications and apply them
+
+"this" is used on an obect, refers to different objects depending on use
+
+the parentheses () means start immediately
+
+const is the common practice for objects because they usually dont change
+
+**IMPORTANT arrays always start at 0. the .length displays the amount of properties in an array
+
+anonymous objects allows you to create objects with no name
+you can also put objects in an array
+
+to console log the array you need console.log then the object name and value, then position and other value

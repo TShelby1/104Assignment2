@@ -1,2 +1,2 @@
-# 104Assignment2
-104 assignment 2
+# petSaloon
+Pet saloon project from section 104

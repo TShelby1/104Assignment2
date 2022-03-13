@@ -1,0 +1,42 @@
+/* 
+body{
+    margin:0;
+    text-decoration: none;
+    width:80vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+header{
+    text-align: center;
+    height:10rem;
+    font-size: 1.8rem;
+    display:flex;
+    flex-direction: column;
+}
+#petNames{
+    display:flex;
+    flex-direction: column;
+    list-style-type: none;
+    height:100%;
+
+}
+#petNames li{
+    border:2px solid black;
+    height:100%; 
+    width:100%;
+    letter-spacing: 1.5px;
+    padding-left: 2rem; 
+    font-weight: 600;
+    background-color: beige;
+    border-radius: 1rem;
+    margin-bottom:10px;
+}
+footer{
+    height:2rem;
+    width:80vh;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight:700;
+} */
